@@ -17,7 +17,8 @@ I made this as a small project to practice Python and building a GUI with PySide
 
 ### Screenshots
 
-![Main screen](screenshots/main.png)
+<img width="575" height="651" alt="Снимок экрана — 2026-11-21 в 14 23 17" src="https://github.com/user-attachments/assets/ae727a8a-4a40-42ea-ad46-84c2b23a7123" />
+
 
 ## Getting Started
 

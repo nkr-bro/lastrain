@@ -30,3 +30,33 @@ I made this as a small project to practice Python and building a GUI with PySide
 ### Installing
 
 * Clone the repository or download it as a ZIP:
+```
+git clone https://github.com/YOUR_USERNAME/last-train.git
+cd last-train
+```
+* Install PySide6:
+```
+pip install PySide6
+```
+
+### Executing program
+
+* Go to the project folder
+* Run the main file:
+```
+python main.py
+```
+* Choose Normal or Survival mode
+* Pick your actions and try to board the train before you run out of turns
+
+## Help
+
+If the game doesn't start, first check that PySide6 is installed:
+```
+pip show PySide6
+```
+If `python` doesn't work, try `python3` instead (on macOS and Linux it's usually `python3`).
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
